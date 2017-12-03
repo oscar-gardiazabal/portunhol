@@ -16,14 +16,15 @@
 1. Para evitar conflictos de codigo, los acentos no devem usarse. Moitas palavras que carregam acento en una lengua, no lo tem no otro.
 2. No se van a usar palavras con letras especiais de la lingua (como **'ñ'**, **'ll'**, **'ç'**), e vamos a usar sempre a palavra de la otra lengua.
 3. No se van a usar palavras con sons especiais de la lingua (como **'ch'**), e vamos a usar sempre a palavra de la otra lengua.
-4. As letras **'k'**, **'w'** e **'y'** no existen originalmente no portugues, e vamos a usar sempre a palavra en la otra lengua.
-5. Prevalecen as palavras na lengua que no contengan **'h'** muda e usar a forma latina **'f'**.
-6. En espanhol ya no diferenciamos a pronunciacion entre as letras **'b'** e **'v'**, pero en portugues si. Por lo tanto a pronunciacion dessas letras en portugues prevaleceran sobre a ortografia do espanhol. Si tuvieran el mismo largo e no contradice ninguna otra regla se usa la palavra en portugues.
+4. O som da letra **'j'** en portugues no existe en espanhol, e vamos a tratar de usar sempre a palavra do espanhol.
+5. As letras **'k'**, **'w'** e **'y'** no existen originalmente no portugues, e se va a usar sempre a palavra en la otra lengua.
+6. Prevalecen as palavras na lengua que no contengan **'h'** muda e usar a forma latina **'f'**.
+7. En espanhol ya no diferenciamos a pronunciacion entre as letras **'b'** e **'v'**, pero en portugues si. Por lo tanto a pronunciacion dessas letras en portugues prevaleceran sobre a ortografia do espanhol. Si tuvieran o mismo largo e no contradice ninguna otra regla se usa la palavra en portugues.
 Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube.com/watch?v=kVus1L6x834 
-7. Partindo da base que un codigo mas simplificado es mas facil de entender, vai a tratar de usar as palavras mas cortas de ambas lenguas.
-8. Para decidir si usar a forma verbal de una lengua ou otro, se devem comparar os infinitivos.
-8. Os prefijos e sufijos tambem estan sujetos por estas reglas por separado.
-9. Si no ha ninguna regla que decida que palavra es preferible, se vai escrever en Espanhol (por ter maior numero de falantes)
+8. Partindo da base que un codigo mas simplificado es mas facil de entender, vai a tratar de usar as palavras mas cortas de ambas lenguas.
+9. Para decidir si usar a forma verbal de una lengua ou otro, se devem comparar os infinitivos.
+10. Os prefijos e sufijos tambem estan sujetos por estas reglas por separado.
+11. Si no ha ninguna regla que decida que palavra es preferible, se vai escrever en Espanhol (por ter maior numero de falantes)
 
 ## Normas de gramatica:
 1. Para escrever un portunhol lo mas plano e facil posivle vai a usar as formas verbais compostas que usen participio
@@ -43,8 +44,10 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 ---
 
 ## Que sinonimos mejor usar do Espanhol:
+
 **pero**: **mas** (ej. es joven **pero** es alto -> es joven **mas** es alto)
 **idioma**: **lengua**
+
 ---
 
 ## Que sinonimos mejor usar do Portugues:
