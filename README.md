@@ -3,7 +3,7 @@
 
 
 ### Bibliografia:
-- sonidos do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
+- sons do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
 
 ### Prologo:
 - No es facil para un Espanhol e un Portugues entenderse conversando, especialmente para un Espanhol porque o Portugues tem muitos mas sons de vocales; pero pode ser muito mas facil escrevendo.
