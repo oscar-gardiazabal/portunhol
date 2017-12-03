@@ -14,8 +14,8 @@
 
 ## Normas logicas do Portunhol:
 1. Para evitar conflictos de codigo, los acentos no devem usarse. Moitas palavras que carregam acento en una lengua, no lo tem no otro.
-2. No se van a usar palavras con letras especiais de la lingua (como **'ñ'**, **'ll'**, **'ç'**), e vamos a usar sempre a palavra en la otra lengua.
-3. No se van a usar palavras con sons especiais de la lingua (como **'ch'**), e vamos a usar sempre a palavra en la otra lengua.
+2. No se van a usar palavras con letras especiais de la lingua (como **'ñ'**, **'ll'**, **'ç'**), e vamos a usar sempre a palavra de la otra lengua.
+3. No se van a usar palavras con sons especiais de la lingua (como **'ch'**), e vamos a usar sempre a palavra de la otra lengua.
 4. As letras **'k'**, **'w'** e **'y'** no existen originalmente no portugues, e vamos a usar sempre a palavra en la otra lengua.
 5. Prevalecen as palavras na lengua que no contengan **'h'** muda e usar a forma latina **'f'**.
 6. En espanhol ya no diferenciamos a pronunciacion entre as letras **'b'** e **'v'**, pero en portugues si. Por lo tanto a pronunciacion dessas letras en portugues prevaleceran sobre a ortografia do espanhol. Si tuvieran el mismo largo e no contradice ninguna otra regla se usa la palavra en portugues.
