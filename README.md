@@ -32,7 +32,7 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 2. Se evitan os adjetivos si podemos usar o sustantivo (ej. palavras **espanholas** -> palavras **en espanhol**)
 
 ### Palavras conflictivas:
-1. Sobre o uso do verbo **'es'** en espanhol o **'é'** en portugues, prevalece o termimo espanhol **'es'** porque no tem acento no se donfunde con a conjuncion **e** do portugues.
+1. Sobre o uso do verbo **'es'** en espanhol ou **'é'** en portugues, prevalece o termimo espanhol **'es'** porque no tem acento no se donfunde con a conjuncion **e** do portugues.
 2. O determinante espanhol **'la'** se substitui por o **'a'** portugues. Eso crea un conflicto no uso de preposicion + determinante en espanhol **'a la'** por lo que en ese caso se vai usar a versao portuguesa **'para a'**.
 3. La conjuncion **'o'** do espanhol se confunde con o determinante masculino portugues, entonces se usa la palavra do portugues **'ou'**
 
