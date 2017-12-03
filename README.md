@@ -45,8 +45,8 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 
 ## Que sinonimos mejor usar do Espanhol:
 
-**pero**: **mas** (ej. es joven **pero** es alto -> es joven **mas** es alto)
-**idioma**: **lengua**
+- pero: **mas** (ej. es joven **pero** es alto -> es joven **mas** es alto)
+- idioma: **lengua**
 
 ---
 
