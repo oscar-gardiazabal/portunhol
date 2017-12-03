@@ -3,7 +3,8 @@
 
 
 ### Bibliografia:
-- sons do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
+- Sons do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
+- Vocabulario do Portunhol riverense https://es.wiktionary.org/wiki/Ap%C3%A9ndice:Portu%C3%B1ol_riverense_(vocabulario)
 
 ### Prologo:
 - No es facil para un Espanhol e un Portugues entenderse conversando, especialmente para un Espanhol porque o Portugues tem muitos mas sons de vocales; pero pode ser muito mas facil escrevendo.
