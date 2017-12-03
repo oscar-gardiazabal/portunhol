@@ -51,3 +51,9 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 ---
 
 ## Que sinonimos mejor usar do Portugues:
+
+---
+
+### Eres nuevo en Github?
+
+Github es un repositorio pensado para código livre, podes crear una conta para propor cambios a este e otros documentos ou podes escrever sugerencias no separador "Issues".
