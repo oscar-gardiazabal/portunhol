@@ -26,17 +26,17 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 10. Os prefijos e sufijos tambem estan sujetos por estas reglas por separado.
 11. Si no ha ninguna regla que decida que palavra es preferible, se vai escrever en Espanhol (por ter maior numero de falantes)
 
-## Normas de gramatica:
+### Normas de gramatica:
 1. Para escrever un portunhol lo mas plano e facil posivle vai a usar as formas verbais compostas que usen participio
 (ex. **'se usarán'** -> **'vai ser usado'**) 
 2. Se evitan os adjetivos si podemos usar o sustantivo (ej. palavras **espanholas** -> palavras **en espanhol**)
 
-## Palavras conflictivas:
+### Palavras conflictivas:
 1. Sobre o uso do verbo **'es'** en espanhol o **'é'** en portugues, prevalece o termimo espanhol **'es'** porque no tem acento no se donfunde con a conjuncion **e** do portugues.
 2. O determinante espanhol **'la'** se substitui por o **'a'** portugues. Eso crea un conflicto no uso de preposicion + determinante en espanhol **'a la'** por lo que en ese caso se vai usar a versao portuguesa **'para a'**.
 3. La conjuncion **'o'** do espanhol se confunde con o determinante masculino portugues, entonces se usa la palavra do portugues **'ou'**
 
-## Otras curiosidades (que no devem afectar en que palavras usar):
+### Otras curiosidades (que no devem afectar en que palavras usar):
 1. O som **'z'** do espanhol de Espanha no existe en Portugues como tampoco existe en america latina, pero soa como a **'z'** en ingles.
 2. O som espanhol **'j'** no existe en portugues, mas a letra se usa de manera similar e o som es o mismo que a **j en argentina**. No es coincidencia ;)
 3. O som espanhol **'rr'** no existe en portugues, mas o usan en casos similares mas como som de **'r' gutural**
