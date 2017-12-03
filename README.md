@@ -1,12 +1,8 @@
 # Portunhol
 **Normas escritas do programacion en portunhol**
 
-
-### Bibliografia:
-- Sons do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
-- Vocabulario do Portunhol riverense https://es.wiktionary.org/wiki/Ap%C3%A9ndice:Portu%C3%B1ol_riverense_(vocabulario)
-
 ### Prologo:
+- Ha 800 anos, o espanhol e o portugues eran un mismo pueblo e un mismo idioma. As fronteras faceron que a lengua evolucionara de forma diferente.
 - No es facil para un Espanhol e un Portugues entenderse conversando, especialmente para un Espanhol porque o Portugues tem muitos mas sons de vocales; pero pode ser muito mas facil escrevendo.
 - Como creador de este repositorio, no tengo conocimentos de portugues ni de linguistica, por lo que es imprescindible a llegada de colaboradores con mas conocimiento.
 - Es necesario que un portugues revise posivles errores gramaticais!
@@ -47,7 +43,6 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 ## Que sinonimos mejor usar do Espanhol:
 
 - pero: **mas** (ej. es joven **pero** es alto -> es joven **mas** es alto)
-- idioma: **lengua**
 
 ---
 
@@ -58,3 +53,8 @@ Para los que falam espanhol que no conozcan esta diferencia: https://www.youtube
 ### Eres novo en Github?
 
 Github es un repositorio pensado para código livre, podes crear una conta para propor cambios a este e otros documentos ou podes escrever sugerencias no separador "Issues".
+
+### Bibliografia:
+- Sons do portugues: https://es.wikibooks.org/wiki/Portugu%C3%A9s/Gram%C3%A1tica/Sonidos_y_pronunciaci%C3%B3n
+- Vocabulario do Portunhol riverense https://es.wiktionary.org/wiki/Ap%C3%A9ndice:Portu%C3%B1ol_riverense_(vocabulario)
+- Sefardi falando el Portunhol de Espanha se se falaba no S.XV https://www.youtube.com/watch?v=6q323m0RRPU&t=323s
